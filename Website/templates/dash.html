@@ -1,0 +1,18 @@
+{%extends "base2.html"%}
+{%block title%}Dash{%endblock%}
+{%block content%}
+<div class="box">
+    <h1 class="dash-title">Welcome Kitty</h1>
+<form class="chatbox dash-title" method="POST">
+    <div class="input-area"><input type="text" name="message" placeholder="Ask about a cats...">
+    <button type="submit">send</button>
+    </div>
+</form>
+</div>
+{% if response %}
+    <div class=" response">
+        <p><strong>Bot:</strong>{{response}}</p>
+    </div>
+{% endif %}
+
+{%endblock%}

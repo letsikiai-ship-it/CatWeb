@@ -1,0 +1,45 @@
+#sidebar{
+    width: 800px;
+    min-height: 100vh;
+}
+#sidebar a{
+    font-size: 20px;
+}
+.video{
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+ .hero-video{
+    height:100%;
+    width:100%;
+    object-fit:cover;
+ }
+ .signup-container{
+    justify-content: center;
+    align-items:center;
+    display: flex;
+ }
+ .signup-form{
+    
+    padding: 10rem;
+    right: 16rem;
+ }
+
+ .form-group input{
+    height: 5%;
+    width: 120%;
+ }
+
+ .signup-form button{
+    width: 100%;
+    padding: 0.8rem;
+    margin-top: 1rem;
+    background: #4f46e5;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+ }
