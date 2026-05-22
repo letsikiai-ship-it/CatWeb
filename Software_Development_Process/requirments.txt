@@ -1,0 +1,32 @@
+#Software Requirements
+
+1. Overview
+This software is a website based chat bot that should answer all known questions about cats
+
+2. Objectives
+* Read complex language from user and respond appropriatly
+
+3. Scope
+the following will be included in the project
+    * Python
+    * Database with cat facts
+    * Flask for web development
+
+4. Functional Requirements
+ * A database
+ * desgin pattern for language model
+ * website for friendly User Interface
+
+5. Non-functional Requirements
+    * mainteneace and updates
+
+6. User Requirements
+    * Knowledge on cats 
+
+7. System Requirements
+    * Minimum system requirements are:
+					processor - 2,6 GHz 6-Core Intel Core i7
+					graphics - AMD Radeon Pro 5300M 4GB
+					Intel UHD Graphics 630 1536 MB
+      					Memory 16 GB 2667 MHz DDR4
+					Startup disk Macintosh HD

@@ -1,0 +1,9 @@
+This timeline will not show any specific date on which a task should be completed
+
+here is a sequential order on how each component of the project needs to be executed
+
+    1. Build Database for storing cat knowledge
+    2. Create a method that will allow Ai to interact with database
+    3. Train language to interpret complex language models
+    4. Model must respond
+    
