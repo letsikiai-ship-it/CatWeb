@@ -6,4 +6,7 @@ here is a sequential order on how each component of the project needs to be exec
     2. Create a method that will allow Ai to interact with database
     3. Train language to interpret complex language models
     4. Model must respond
-    
+    5.Test the model
+    6. Patch the application
+    7. Test model
+    8. host the model on https server for public use
